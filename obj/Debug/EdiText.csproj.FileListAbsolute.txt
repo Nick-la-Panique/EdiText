@@ -1,0 +1,10 @@
+C:\Users\corentin.blot\source\repos\EdiText\obj\Debug\EdiText.csproj.AssemblyReference.cache
+C:\Users\corentin.blot\source\repos\EdiText\obj\Debug\EdiText.Form1.resources
+C:\Users\corentin.blot\source\repos\EdiText\obj\Debug\EdiText.Properties.Resources.resources
+C:\Users\corentin.blot\source\repos\EdiText\obj\Debug\EdiText.csproj.GenerateResource.cache
+C:\Users\corentin.blot\source\repos\EdiText\obj\Debug\EdiText.csproj.CoreCompileInputs.cache
+C:\Users\corentin.blot\source\repos\EdiText\bin\Debug\EdiText.exe.config
+C:\Users\corentin.blot\source\repos\EdiText\bin\Debug\EdiText.exe
+C:\Users\corentin.blot\source\repos\EdiText\bin\Debug\EdiText.pdb
+C:\Users\corentin.blot\source\repos\EdiText\obj\Debug\EdiText.exe
+C:\Users\corentin.blot\source\repos\EdiText\obj\Debug\EdiText.pdb
